@@ -14,18 +14,22 @@ This is all in the air. The plan is that the lib will turn a file into a [NamedS
 
 # FAQs:
 Q: Why Python? WHY????
+
 A: I am lazy. I started this so I could get GR2 Analyst 3 UDPs to process on every SAILS sweep.
 
-Q: I hate how you are doing this
+Q: I hate how you are doing this.
+
 A: So do I, and that isn't a question. 
 
 Q: Why are so many things missing? 
 A: I haven't done them yet. 
 
 Q: When will you do them?
+
 A: I don't know.
 
 Q: Can I contribute
+
 A: yes please. 
 
 
